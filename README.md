@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yusufibraimo
 - 👀 I’m interested in coding and web devlopment.
 - 🌱 I’m currently learning HTML, CSS and Java 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on any CSS and HTML Projects.
 - 📫 How to reach me yibraimo@yahoo.com and @Yibraimo14 on Instagram. 
 
 <!---
